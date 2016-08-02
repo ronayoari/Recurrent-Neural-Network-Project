@@ -17,7 +17,8 @@ Anaconda Version: Anaconda 2
 including Python 2.7  
 **NLTK**  
 Version: 64-bit Version
-
+**NUMPY**
+**THEANO**
 
 
 
@@ -58,13 +59,3 @@ This means we must tokenize our comments into sentences, and sentences into word
 At first, we want to choose the dictionary that we'll work with him.  
 We choose the collection of the most common words in the text.  
 Tokens:  
-
-
-
-
-
-
-
-
-
-
