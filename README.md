@@ -7,6 +7,8 @@
 "Ronit Yoari & Orel Swisa"
 **date:**
 August 8, 2016
+  
+The Code in python with RNN algorithm used to generate the data recovery model documented and explained in the ipython notebook: "Report".  
 
 # Installations:
 **Anaconda for Windows**  
