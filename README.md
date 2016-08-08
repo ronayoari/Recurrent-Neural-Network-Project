@@ -1,12 +1,13 @@
 #  Data Science
 
+
 ---
 **Recurrent Neural Network Project**
 ---
-**authors:**
-"Ronit Yoari & Orel Swisa"
-**date:**
-August 8, 2016
+***Authors:*** Ronit Yoari & Orel Swisa  
+***Date:*** August 8, 2016  
+***[Dataset]()***  
+
   
 The Code in python with RNN algorithm used to generate the data recovery model documented and explained in the ipython notebook: "Report".  
 
@@ -21,13 +22,6 @@ Version: 64-bit Version
 **THEANO**
 
 
-
----
-**Recurrent Neural Network Project**
----
-***Authors:*** Ronit Yoari & Orel Swisa  
-***Date:*** August 8, 2016  
-***[Dataset]()***  
 
 ---
 # 1. Choosing the data collection sequences
