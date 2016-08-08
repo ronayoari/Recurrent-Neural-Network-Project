@@ -18,6 +18,6 @@ Anaconda Version: Anaconda 2
 including Python 2.7  
 **NLTK**  
 Version: 64-bit Version
-**NUMPY**
-**THEANO**
+**NUMPY**  
+**THEANO**  
 **NVIDIA Nsight HUD Launcher 4.7**
