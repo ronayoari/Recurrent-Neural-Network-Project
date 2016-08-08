@@ -20,7 +20,7 @@ including Python 2.7
 Version: 64-bit Version
 **NUMPY**
 **THEANO**
-
+**NVIDIA Nsight HUD Launcher 4.7**
 
 
 ---
