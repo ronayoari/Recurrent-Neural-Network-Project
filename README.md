@@ -21,35 +21,3 @@ Version: 64-bit Version
 **NUMPY**
 **THEANO**
 **NVIDIA Nsight HUD Launcher 4.7**
-
-
----
-# 1. Choosing the data collection sequences
----
-## Collection of data that we have chosen for this project is:  
-  
-## Link to dataset:  
-  
-## Data Example - Reading first data records  
-  
-  
----
-# 2. Data Description
----
-## Description of data collection chosen:  
-  
-## The main challenges of working with this data where:  
-  
-## Why the study interesting and where he can contribute?  
-  
-  
-  
----
-# 3. Data Preprocessing
----
-## Stage 1: TOKENIZE TEXT  
-We have raw text, but we want to make predictions on a per-word basis.  
-This means we must tokenize our comments into sentences, and sentences into words.   
-At first, we want to choose the dictionary that we'll work with him.  
-We choose the collection of the most common words in the text.  
-Tokens:  
